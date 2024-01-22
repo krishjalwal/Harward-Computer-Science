@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sorting
+
+How do you know?: Because its fastest in sorted list and takes 1.177s
+
+sort2 uses: Merge Sorting
+
+How do you know?: Because it is fastest in unsorted list and take 1.380s.
+
+sort3 uses: Selection Sorting
+
+How do you know?: Because we have this as last option.
